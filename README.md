@@ -5,8 +5,7 @@ Welcome to the Helmet Detection Project! This repository contains everything you
 ---
 
 ## Project Structure
-```
-
+```bash
 ├───dataset
 │ ├───test
 │ │ ├───images
@@ -22,7 +21,7 @@ Welcome to the Helmet Detection Project! This repository contains everything you
 ├───detect_helmet.py
 ├───train_helmet_detection_model.ipynb
 └───requirements.txt
- ```
+```
 
 ##### Note: The dataset is provided as a .zip file. After decompressing (unzipping) it, you will obtain the folder structure shown above.
 
